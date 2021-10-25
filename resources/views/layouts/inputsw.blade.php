@@ -182,7 +182,7 @@
               </div>
               <div class="ss-top-of-page">
                 <div class="ss-form-heading">
-                  <h1 class="ss-form-title" dir="ltr">#YourStoryIsHeard:</h1>
+                  <h1 class="ss-form-title" dir="ltr">#SuaraWanita</h1>
                   <h1 class="ss-form-title" dir="ltr">KIRIMKAN CERITAMU !</h1>
         
         
@@ -198,7 +198,7 @@
                           <label class="ss-q-item-label" for="entry_277621092">
                             <h6>Terima kasih karena kamu telah memercayakan kami untuk mendengarkan ceritamu. Kami turut prihatin hal tersebut pernah terjadi dalam hidupmu. Namun, kami ingin kamu tahu bahwa kami ada di sini untuk mendengar ceritamu.</h6>
                             
-                            <h6>Sebelum kamu menuliskan ceritamu, kami ingin mengingatkan kamu bahwa ada dua opsi yang bisa kamu pilih. Jika kamu memilih untuk dipublikasikan, berarti besar kemungkinan ceritamu akan digunakan dalam proyek-proyek YourStoryIsHeard selanjutnya, namun jika tidak, kami hanya akan mendengarkan dan menyimpan ceritamu saja tanpa mempublikasikan.</h6>
+                            <h6>Sebelum menulis cerita Anda, kami ingin mengingatkan Anda bahwa Anda dapat memilih di antara dua opsi. Jika Anda memilih untuk memposting itu berarti cerita Anda kemungkinan  akan digunakan dalam proyek Suara Wanita yang akan datang, tetapi jika tidak, kami hanya akan mendengarkan dan menyimpan cerita Anda tanpa mempostingnya.</h6>
                             <br>
                             <h6>Ceritamu akan dipublikasikan secara anonim sehingga kamu tidak perlu menuliskan identitasmu di sini. Terima kasih atas keberanianmu.</h6>
                             <br>
@@ -396,7 +396,5 @@
                 "[100,,[[[277621092,[[1,1,[\x220\x22]\n,\x22Please enter a valid amount\x22]\n]\n]\n,[1365406766,[[1,1,[\x220\x22]\n,\x22\x22]\n]\n]\n,[1937779465,[[1,1,[\x220\x22]\n,\x22\x22]\n]\n]\n,[1798042910,[[1,1,[\x220\x22]\n,\x22\x22]\n]\n]\n,[1076296165,[[1,1,[\x220\x22]\n,\x22\x22]\n]\n]\n,[1813579721,[[4,299,[\x22\x22]\n,\x22\x22]\n]\n]\n]\n]\n]\n");
             </script>
           </div>
-        </div>
-    </div>    
-</div>
+        
 @endsection

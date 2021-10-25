@@ -118,6 +118,25 @@
     </section>
     <!-- END ARTICLE -->
 
+     <!-- Video-->
+    <section id="intro">
+      <div class="container px-5">
+        <div class="row gx-5 align-items-center">
+          <div class="col-lg-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Lu4H_D7BR6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="col-lg-6">
+            <div class="p-5">
+              <h2 class="display-4">INTRODUCTION</h2>
+              <p>
+                Hello, we are Sisterhoods IDN. In this video, you will witness from our founder & members about our visions, missions, and the philosophy behind Sisterhoods IDN as a youth & non-profit organization. Sisterhoods IDN is a youth organization led by Indonesian young women. Established in 2021, we focus on supporting women by listening to their voices. We have a high hope to help and encourage Indonesian young women to speak up more courageously.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- content section 2-->
     <section id="sectionDua">
       <div class="container">
