@@ -3,16 +3,65 @@
 @section('content')
     <!--JUMBOTRON-->
     <div
-      id="carouselExampleSlidesOnly"
-      class="carousel slide"
-      data-bs-ride="carousel"
+    id="carouselExampleCaptions"
+    class="carousel slide"
+    data-bs-ride="carousel"
     >
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="{{asset('/layouts/img/bannerhome.jpeg')}}" class="d-block w-100" alt="..." />
-        </div>
-      </div>
+    <div class="carousel-indicators">
+        <button
+        type="button"
+        data-bs-target="#carouselExampleCaptions"
+        data-bs-slide-to="0"
+        class="active"
+        aria-current="true"
+        aria-label="Slide 1"
+        ></button>
+        <button
+        type="button"
+        data-bs-target="#carouselExampleCaptions"
+        data-bs-slide-to="1"
+        aria-label="Slide 2"
+        ></button>
+        
     </div>
+    <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="{{asset('/layouts/img/bannerhome.jpeg')}}" class="d-block w-100" alt="..." />
+        <div class="carousel-caption d-none d-md-block">
+        </div>
+    </div>
+    <div class="carousel-item">
+        <img src="{{asset('/layouts/img/disney.jpeg')}}" class="d-block w-100" alt="..." />
+        <div class="carousel-caption d-none d-md-block">
+        
+        <a type="button" href="#" class="btn btn-primary btn-xl">Get It</a>
+        </div>
+    </div>
+    
+    </div>
+        <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselExampleCaptions"
+        data-bs-slide="prev"
+        >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselExampleCaptions"
+        data-bs-slide="next"
+        >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+
+
+      
     <!-- END -->
 
     <!-- Content section 1-->
@@ -67,7 +116,7 @@
                   of the old feminist movement. It was pioneered by the
                   predecessor ofthis movement —some
                 </p>
-                <a href="article1.html"
+                <a href="article1.blade.php"
                   >Read More <i class="bi bi-arrow-right"></i
                 ></a>
               </div>

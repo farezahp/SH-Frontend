@@ -117,7 +117,7 @@
                 - You are your own brand - Speak the untold truth
               </p>
               <a
-                href="https://bit.ly/SISTERCAMP"
+                href="eventin.blade.php"
                 class="btn btn-primary"
                 style="margin-top: 20px"
                 >Highlight Event</a

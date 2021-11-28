@@ -40,24 +40,11 @@
             </li>
           </ul>
         </li>
-        <li class="nav-item dropdown">
-          <a
-            class="nav-link dropdown-toggle"
-            href="#"
-            id="events"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
-          >
-            Article
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li>
-              <a class="dropdown-item" href="/article">Article</a>
-            </li>
-            <li><a class="dropdown-item" href="#">#</a></li>
-          </ul>
+        
+          <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="/">Article</a>
         </li>
+        
 
         <li class="nav-item">
           <a class="nav-link" href="/events">Events</a>
@@ -68,9 +55,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/get-involved">Get Involved</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/login">Login</a>
-        </li>
+       
       </ul>
     </div>
   </div>
